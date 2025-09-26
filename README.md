@@ -150,7 +150,7 @@ Sample Output:
 
 In the following pH range, photocatalytic materials can split water:
 
-| pH  | X(H2) (eV) | X(O2) (eV) | nabs (%) | ncu (%) | nSTH (%) | Corrected_nSTH(%)|
+| pH  | X(H2) (eV) | X(O2) (eV) | nabs (%) | ncu (%) | nSTH (%) | Corrected nSTH(%)|
 |-----|------------|------------|----------|---------|----------|----------------|
 | 0   | 0.50       | 0.41       | 79.75    | 54.46   | 43.43    | 30.39          |
 | 1   | 0.44       | 0.47       | 79.75    | 56.54   | 45.10    | 31.56          |
