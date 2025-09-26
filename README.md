@@ -71,7 +71,7 @@ The **ASTM G173** is a standard document that provides a standardized method for
 
 * **Column B (Global tilt W*m?*nm??)**:
 
-  * This column provides the **global tilted irradiance** at each corresponding wavelength, expressed in **Watts per square meter per nanometer (W¡¤m??¡¤nm??)**. This value represents the amount of solar radiation received by a tilted surface for each wavelength.
+  * This column provides the **global tilted irradiance** at each corresponding wavelength, expressed in **Watts per square meter per nanometer (WÂ¡Â¤m??Â¡Â¤nm??)**. This value represents the amount of solar radiation received by a tilted surface for each wavelength.
 
 * **Columns C and E**:
 
@@ -89,7 +89,7 @@ The **ASTM G173** is a standard document that provides a standardized method for
 ### Summary of Key Concepts:
 
 * **Column A**: Wavelength (nm)
-* **Column B**: Global Tilted Irradiance (W¡¤m??¡¤nm??)
+* **Column B**: Global Tilted Irradiance (WÂ¡Â¤m??Â¡Â¤nm??)
 * **Columns C & E**: Conversion from wavelength to energy (eV)
 * **Columns D & F**: Spectral power distribution (for integration formulas)
 
@@ -150,7 +150,7 @@ Sample Output:
 
 In the following pH range, photocatalytic materials can split water:
 
-| pH  | X(H2) (eV) | X(O2) (eV) | nabs (%) | ncu (%) | nSTH (%) | nSTH_Error (%) |
+| pH  | X(H2) (eV) | X(O2) (eV) | nabs (%) | ncu (%) | nSTH (%) | nSTH_correct(%)|
 |-----|------------|------------|----------|---------|----------|----------------|
 | 0   | 0.50       | 0.41       | 79.75    | 54.46   | 43.43    | 30.39          |
 | 1   | 0.44       | 0.47       | 79.75    | 56.54   | 45.10    | 31.56          |
